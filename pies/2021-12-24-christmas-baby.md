@@ -15,7 +15,7 @@ Hydration: 68%
 | Salt            | 30    |
 | Starter         | 62    |
 | Water           | 553   |
-| Flour 2         | 814   |
+| Flour 2         | 177   |
 
 ## Cooking notes
 
