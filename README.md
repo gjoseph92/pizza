@@ -8,18 +8,19 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 |-------------------------------------|-------|--------|--------|-----------|--------------------------|
 | Filtered Water                      | 109   | 330    | 550    | 64.7      | 1,000                    |
 | Flour                               | 168   | 510    | 850    | 1         | 1,545                    |
-| Kosher or Sea Salt                  | 4     | 12     | 20     | 2.3       | 36                       |
+| Kosher or Sea Salt                  | 4     | 12     | 17     | 2.3       | 36                       |
 | Sourdough starter at ~50% hydration | 12    | 36     | 60     | 7         | 109                      |
 
 ## Dough:
 
 1. Autolyse: fully mix ingredients with 75% of the flour, rest 20min
-2. Mix ~5min, then start adding rest of flour and mixing
-3. Rest 15-20min
-4. Portion into ~298g pieces
-5. Store individually in extremely lightly oiled containers
-6. Rest 10min
-7. Put in fridge for 1-6 days
+1. Hand mix ~5min. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
+1. Add rest of flour, bit at a time, and mixing. Don't care about getting to the target number. Stop adding once dough, lightly dusted with flour, feels soft and smooth. Should still be wet, soft, and slack.
+1. Rest 15-20min
+1. Pour out onto floured surface and portion into ~298g pieces
+1. Store individually in extremely-lightly-oiled containers
+1. Rest 10min
+1. Put in fridge for 1-6 days
 
 ## Toppings
 
