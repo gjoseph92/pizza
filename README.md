@@ -2,13 +2,12 @@
 
 Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 
-| Ingredient (grams)                                | 1 Pie | 3 Pies | 5 Pies | Baker's % | Grams Per Liter of Water |
-|---------------------------------------------------|-------|--------|--------|-----------|--------------------------|
-| Filtered Water                                    | 110   | 330    | 550    | 0.655     | 1,000                    |
-| King Arthur Bread flour, or Caputo Pizzeria flour | 168   | 510    | 850    | 1         | 1,527                    |
-| Kosher or Sea Salt                                | 6     | 18     | 30     | 0.035     | 55                       |
-| Sourdough starter at ~50% hydration               | 15    | 45     | 60     | 0.09      | 136                      |
-| Instant Dry yeast - Optional                      | 0.5   | 1.5    | 2.5    | 0.0025    | 4.50                     |
+| Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | Baker's % | Grams Per Liter of Water |
+|-------------------------------------|-------|--------|--------|-----------|--------------------------|
+| Filtered Water                      | 109   | 330    | 550    | 64.7      | 1,000                    |
+| Flour                               | 168   | 510    | 850    | 1         | 1,545                    |
+| Kosher or Sea Salt                  | 4     | 12     | 20     | 2.3       | 36                       |
+| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 7         | 109                      |
 
 ## Dough:
 
