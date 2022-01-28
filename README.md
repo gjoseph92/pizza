@@ -1,5 +1,7 @@
 # 🍕 days
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
 Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 
 | Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | Baker's % | Grams Per Liter of Water |

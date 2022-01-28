@@ -10,3 +10,4 @@ dictionaries:
 ignorePaths:
   - '/images/**'
   - '*.numbers'
+  - "dictionary.txt"
