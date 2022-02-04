@@ -11,3 +11,4 @@ ignorePaths:
   - '/images/**'
   - '*.numbers'
   - "dictionary.txt"
+  - "LICENSE"
