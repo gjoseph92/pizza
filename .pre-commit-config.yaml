@@ -11,4 +11,4 @@ repos:
       rev: v5.7.0
       hooks:
           - id: cspell
-exclude: .*\.jpeg
+exclude: .*\.(jpeg|png)
