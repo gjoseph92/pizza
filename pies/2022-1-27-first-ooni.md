@@ -4,6 +4,9 @@ Date: Jan 27, 2021 9:30 PM
 
 Hydration: 75%?!
 
+![big fish gabe](/images/2022-02-04/big-fish-gabe.jpeg)
+![big fish lau](/images/2022-02-04/big-fish-lau.jpeg)
+
 | Actual quantity | grams |
 |-----------------|-------|
 | Flour 1         | 639   |
