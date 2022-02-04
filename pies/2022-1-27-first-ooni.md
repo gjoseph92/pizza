@@ -13,6 +13,7 @@ Hydration: 75%?!
 | Flour 2         | 91    |
 
 Used King Arthur bread flour
+Starter only fed once after long rest, and sat for a few days first.
 
 10-12min mix before adding more flour
 10min rest before more flour
@@ -28,3 +29,25 @@ Note: cover with wet towel while sitting so it doesn't dry out.
 
 Final dough: 1356g
 Pie size: 271g
+
+## Cooking notes
+
+Bake 2/3
+
+Proved dough in the boiler room proving cabinet ~2h? Doesn't seem very responsive.
+
+Reading at center of stone was generally 700-750º. Also, it was cold out (~10ºF).
+
+Everything cooked really well, and rose very well. The first pizza rose a bit more than others; may have been hotter. After that, turned the gas down slightly.
+
+Centers were sometimes slightly soft; almost felt like stone wasn't hot enough compared to the air. May have turned it down a little too much. Or not enough time to reheat in between?
+
+Sauce was also very good; much better than last time. Still making them slightly too wet? Also wanted more cheesiness, and using more cheese was good and generally worked. Cheese seemed to "crack" a little and leak some oil, which was kinda tasty actually (remember to try sauce-dollop on top though). Still want to try dry/shredded mozzarella just to get more cheese on there.
+
+## Retro
+
+Consensus was, this was excellent. I think the sauce helped a lot, but everyone seemed to think the ooni cooked better than self-cleaning mode.
+
+Pizzas were a tiny bit small? Aim for slightly larger pie size next time; maybe 290g?
+
+Also, the lack of hardly any prove/rise didn't seem to matter. Way better than last time; nothing was over-proved.
