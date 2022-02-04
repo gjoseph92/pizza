@@ -22,24 +22,16 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 1. Rest 10min
 1. Put in fridge for 1-6 days
 
-## Toppings
+## Sauce (make at same time as dough)
 
-### Sauce (make at same time as dough)
-
-1. Crush tomatoes (but not full puree) with immersion blender/food processor
-1. If tomatoes taste bitter, rinse them:
-    1. Pour into strainer with bowl underneath
-    1. Rinse with water. While water is red, swap another bowl underneath and pour red water back over
-    1. Once water runs clear, keep rinsing in batches until water coming out no longer tastes bitter
-    1. End up with ~1/3 less weight (in water) than you started with from the can
+1. Strain tomatoes from 1 can San Marzano or equivalent
+1. Add tomatoes, 1-2 cloves garlic, generous salt (1-2 tsp?), sugar (3 tsp??), olive oil, fresh basil to food processor
+1. Pulse a few times until saucy, but still chunky
 1. Refrigerate
-
-### Mozzarella
-
-Drain/dry mozzarella in paper towels for hours and refrigerate
 
 ## Bake day
 
+1. Slice mozzarella and leave out to dry for a couple hours before baking
 1. Remove from fridge ~80min before baking. Start oven on self-clean cycle with glass loosely covered in foil, stone on lower rack loosely covered in foil
 1. Get all ingredients ready and laid out
 1. Lightly, evenly flour bench
