@@ -6,10 +6,10 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 
 | Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | Baker's % | Grams Per Liter of Water |
 |-------------------------------------|-------|--------|--------|-----------|--------------------------|
-| Filtered Water                      | 109   | 330    | 550    | 64.7      | 1,000                    |
-| Flour                               | 168   | 510    | 850    | 1         | 1,545                    |
-| Kosher or Sea Salt                  | 4     | 12     | 17     | 2.3       | 36                       |
-| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 7         | 109                      |
+| Filtered Water                      | 116   | 352    | 586    | 69        | 1,000                    |
+| Flour                               | 168   | 510    | 850    | 1         | 1,451                    |
+| Kosher or Sea Salt                  | 4     | 12     | 17     | 2.3       | 29                       |
+| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 7         | 102                      |
 
 ## Dough:
 
@@ -24,32 +24,39 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 
 ## Sauce (make at same time as dough)
 
-1. Strain tomatoes from 1 can San Marzano or equivalent
+1. Strain tomatoes from 1 can San Marzano or equivalent (this will be enough for ~10 pizzas)
 1. Add tomatoes, 1-2 cloves garlic, generous salt (1-2 tsp?), sugar (3 tsp??), olive oil, fresh basil to food processor
 1. Pulse a few times until saucy, but still chunky
 1. Refrigerate
 
 ## Bake day
 
-1. Slice mozzarella and leave out to dry for a couple hours before baking
-1. Remove from fridge ~80min before baking. Start oven on self-clean cycle with glass loosely covered in foil, stone on lower rack loosely covered in foil
+### Prep
+
+1. Remove everything from fridge ~3h? before baking
+1. Slice mozzarella and leave out to dry for a couple hours
+1. Put dough in a warm place to prove if it doesn't seem bubbly already (probably won't). Don't let it over-prove: want bubbles to just be starting to grow, so heat & steam will expand them while baking.
 1. Get all ingredients ready and laid out
 1. Lightly, evenly flour bench
-1. Lightly flour peel and spread flour around
-1. When temp read on foiled stone reaches 850ºF (actually top of oven), remove stone foil and start prepping pizza—stone should be ~700ºF
+
+### Bake
+
+1. Start oven. When temp on center of stone reaches ~700ºF, start prepping pizza
 1. Per pizza, do this as quickly as possible:
-    1. Scrape dough out with rubber spatula onto floured bench. Four bae a dusting on top, then gently spread on bench
-        1. Should not pull back much. Go gently; rest a few seconds between spreads
-    1. Transfer to peel, shaking off excess flour
+    1. Scrape dough out with rubber spatula onto floured bench. Dust flour on top, then gently spread on bench by pushing outwards from center. Pick up as necessary and let gravity/gentle pulling stretch it bigger. Go gently; rest a few seconds between spreads. Keep floured lightly, but enough to be smooth (not sticky) and easy to work.
+        1. On the first iteration, do this again so you have two stretched doughs. Generally, you want to have one dough resting post-stretch while the other bakes—the few mins of rest will let you stretch it a little more when transferring to the peel.
+    1. Lightly flour peel and spread flour around
+    1. Transfer rested, stretched dough to peel
     1. Shake peel to ensure dough isn’t stuck
-    1. Spread about half the sauce you think you need. Less in the center, don’t go too close to edge
+    1. Spread about half the sauce you think you need. Less in the center, 1-3cm from edge
     1. Shake peel again
     1. Lay wetted fresh basil (unwashed) on top
     1. Grate tiny bit of parmesan on top
     1. Shake peel again
     1. Put 8-10 small pieces of cheese, put a small dollop of sauce on top to protect from heat
-    1. Sprinkle more salt
+    1. Sprinkle salt
     1. Shake peel again
-    1. Put into oven! Wait 2:40
+    1. Launch into oven!
+    1. Watch for when crust near the flame starts rising (~30sec?). Give it a couple extra seconds to crisp, then quickly remove with peel, rotate 90º, and put back. Repeat for all 4 sides. Total cook time: ~2:30.
     1. Remove from oven with peel, place on cooling rack
     1. Season with black pepper & olive oil
