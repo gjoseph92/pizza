@@ -7,5 +7,6 @@ microplane
 Marzano
 Nalgene
 Ooni
+tupperwares
 sublicensable
 Varasano's
