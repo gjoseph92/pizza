@@ -1,5 +1,9 @@
 # New York ish
 
+![Kinda burnt but tasty](/images/2022-02-27/pizza.jpeg)
+![Butter chicken](/images/2022-02-27/butter-chicken.jpeg)
+![Yum](/images/2022-02-27/mmm.jpeg)
+
 Trying [Kenji's New-York-style recipe](/new-york-kenji.md).
 
 Date: Feb 27, 2021 2:00 PM
