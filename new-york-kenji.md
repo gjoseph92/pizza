@@ -42,7 +42,7 @@ From https://www.seriouseats.com/new-york-style-pizza-sauce
 
 1. Puree tomatoes until still have small chunks but not completely smooth
 2. Combine oil and butter in medium saucepan and heat over medium-low heat until butter is melted.
-3. Add garlic, oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned, about 3 minutes.
+3. Grate garlic into oil, add oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned, about 3 minutes.
 4. Add tomatoes, onion halves, basil sprigs, and sugar. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by half, about 1 hour.
 5. Discard onions and basil stems.
 6. Season to taste with salt.

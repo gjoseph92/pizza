@@ -4,12 +4,13 @@
 
 Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 
-| Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | Baker's % | Grams Per Liter of Water |
-|-------------------------------------|-------|--------|--------|-----------|--------------------------|
-| Filtered Water                      | 116   | 352    | 586    | 69        | 1,000                    |
-| Flour                               | 168   | 510    | 850    | 100       | 1,451                    |
-| Kosher or Sea Salt                  | 4     | 12     | 17     | 2.3       | 29                       |
-| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 7         | 102                      |
+| Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | 8 Pies | Baker's % | Grams Per L Water |
+|-------------------------------------|-------|--------|--------|--------|-----------|-------------------|
+| Flour                               | 168   | 510    | 850    | 1344   | 100       | 1,451             |
+| Filtered Water                      | 116   | 352    | 586    | 928    | 69        | 1,000             |
+| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 96     | 7         | 102               |
+| Kosher or Sea Salt                  | 4     | 12     | 17     | 32     | 2.3       | 29                |
+| Sugar                               | 4     | 12     | 17     | 32     | 2.3       | 29                |
 
 ## Dough:
 
