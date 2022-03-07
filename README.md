@@ -10,7 +10,6 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 | Filtered Water                      | 116   | 352    | 586    | 928    | 69        | 1,000             |
 | Sourdough starter at ~50% hydration | 12    | 36     | 60     | 96     | 7         | 102               |
 | Kosher or Sea Salt                  | 4     | 12     | 17     | 32     | 2.3       | 29                |
-| Sugar                               | 4     | 12     | 17     | 32     | 2.3       | 29                |
 
 ## Dough:
 
