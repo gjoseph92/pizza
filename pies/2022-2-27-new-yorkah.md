@@ -6,7 +6,7 @@
 
 Trying [Kenji's New-York-style recipe](/new-york-kenji.md).
 
-Date: Feb 27, 2021 2:00 PM
+Date: Feb 27, 2022 2:00 PM
 
 Doughs in red-lidded tupperwares got ~20sec in food processor after forming a ball. Nalgene tupperwares got 60-90sec. None passed windowpane, but more time maybe developed gluten a little more?
 
