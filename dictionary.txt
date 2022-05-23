@@ -3,6 +3,7 @@ autolysed
 collab
 Gabe
 Ginevra
+hella
 Kenji
 Lau
 Marzano
@@ -10,6 +11,7 @@ microplane
 Nalgene
 Ooni
 sublicensable
+tenderfire
 tupperwares
 underbaked
 Varasano
