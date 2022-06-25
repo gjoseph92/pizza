@@ -10,6 +10,7 @@ Marzano
 microplane
 Nalgene
 Ooni
+rindy
 sublicensable
 tenderfire
 tupperwares
