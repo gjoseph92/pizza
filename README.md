@@ -47,7 +47,7 @@ Prior to baking, portion into ~220g pieces.
 
 ## Sauce
 
-Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organico Bello (see ![image](/images/2022-09-01/tomato-kom.jpeg)).
+Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organico Bello (see [image](/images/2022-09-01/tomato-kom.jpeg)).
 
 1. Put a strainer in the sink.
 1. Remove tomatoes from can individually. Shake off liquid, open them a little and let internal liquid drain off. Drop into strainer.
