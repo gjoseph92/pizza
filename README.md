@@ -2,11 +2,9 @@
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-On macOS, use the Numbers spreadsheets to measure while baking.
-
 ## Sourdough
 
-Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. [Worksheet](/dough-worksheet.numbers).
+Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. [Numbers worksheet](/dough-worksheet.numbers).
 
 | Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | 8 Pies | Baker's % | Grams Per L Water |
 |-------------------------------------|-------|--------|--------|--------|-----------|-------------------|
@@ -26,7 +24,7 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe.
 
 ## Yeasted dough
 
-A simple dough, cold-proved dough made with commercial yeast. This is honestly just as tasty as the sourdough when it's had a few days to sit in the fridge—time is key. Adapted from [Ooni](https://ooni.com/blogs/recipes/cold-prove-pizza-dough) [recipes](https://ooni.com/blogs/recipes/avpn-standard-pizza-marinara). [Worksheet](/dough-worksheet-yeasted.numbers).
+A simple dough, cold-proved dough made with commercial yeast. This is honestly just as tasty as the sourdough when it's had a few days to sit in the fridge—time is key. Adapted from [Ooni](https://ooni.com/blogs/recipes/cold-prove-pizza-dough) [recipes](https://ooni.com/blogs/recipes/avpn-standard-pizza-marinara). [Numbers worksheet](/dough-worksheet-yeasted.numbers).
 
 | Ingredient | Percentage |
 |------------|------------|
