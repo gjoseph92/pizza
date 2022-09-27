@@ -2,7 +2,11 @@
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
+On macOS, use the Numbers spreadsheets to measure while baking.
+
+## Sourdough
+
+Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. [Worksheet](/dough-worksheet.numbers).
 
 | Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | 8 Pies | Baker's % | Grams Per L Water |
 |-------------------------------------|-------|--------|--------|--------|-----------|-------------------|
@@ -10,9 +14,6 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 | Filtered Water                      | 116   | 352    | 586    | 928    | 69        | 1,000             |
 | Sourdough starter at ~50% hydration | 12    | 36     | 60     | 96     | 7         | 102               |
 | Kosher or Sea Salt                  | 4     | 12     | 17     | 32     | 2.3       | 29                |
-| Instant Dry yeast - Optional        | 0.5   | 1.5    | 2.5    | 3.5    | 0.0025    | 4.50              |
-
-## Dough:
 
 1. Autolyse: fully mix ingredients with 75% of the flour, rest 20min
 1. Hand mix ~5min. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
@@ -23,11 +24,35 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 1. Rest 10min
 1. Put in fridge for 1-4 days
 
+## Yeasted dough
+
+A simple dough, cold-proved dough made with commercial yeast. This is honestly just as tasty as the sourdough when it's had a few days to sit in the fridge—time is key. Adapted from [Ooni](https://ooni.com/blogs/recipes/cold-prove-pizza-dough) [recipes](https://ooni.com/blogs/recipes/avpn-standard-pizza-marinara). [Worksheet](/dough-worksheet-yeasted.numbers).
+
+| Ingredient | Percentage |
+|------------|------------|
+| Flour      | 100%       |
+| Water      | 60%        |
+| Salt       | 3%         |
+| Yeast      | 0.3%       |
+
+1. Use warm-ish water, not that it matters, then mix in yeast and salt
+1. Add 2/3 of flour, mix for a few mins for gluten, rest 10min
+1. Add rest of flour, mix until forms a ball, rest again
+1. Knead for 10min on a lightly-floured surface
+1. Transfer to Cambro, rest 20min, and cold prove in fridge for 48-72h.
+
+Tip: if making multiple batches, interleave them. This builds in autolyse/resting time while you work on the other.
+
+Prior to baking, portion into ~220g pieces.
+
 ## Sauce
 
+Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organico Bello (see [image](/images/2022-09-01/tomato-kom.jpeg)).
+
+1. Put a strainer in the sink.
 1. Remove tomatoes from can individually. Shake off liquid, open them a little and let internal liquid drain off. Drop into strainer.
 1. Shake strainer, squeeze to drain as much liquid as possible (fine to break them up), then transfer to bowl.
-1. Add a few pinches of salt, glug of olive oil, and lightly mash by hand with pastry blender. Enough that it could reasonably be spread on a pizza, but quite chunky.
+1. Add a few pinches of salt, glug of olive oil, and lightly mash by hand with pastry blender. Enough that it could reasonably be spread on a pizza, but a bit chunky.
 
 ## Bake day
 
@@ -45,7 +70,7 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe:
 1. Start oven. When temp on center of stone reaches ~800ºF (30min pre-heat), start prepping pizza
 1. Per pizza:
     1. Scrape/pour dough out onto floured bench. Dust flour on top, then gently spread on bench by pushing outwards from center. Pick up as necessary and let gravity/gentle pulling stretch it bigger. Go gently; rest a few seconds between spreads. Keep floured lightly, but enough to be smooth (not sticky) and easy to work.
-        1. On the first iteration, you can do this again so you have two stretched doughs. If aiming for speed, you can have one dough resting post-stretch while the other bakes—the few mins of rest will let you stretch it a little more when transferring to the peel.
+        1. On the first iteration, you can do this again so you have two stretched doughs. If aiming for speed, you can have one dough resting post-stretch while the other bakes—the few mins of rest will let you stretch it a little more when transferring to the peel. _However_, the stone needs time to re-heat between pizzas, so the Ooni usually can't keep up with rapid baking.
     1. Lightly flour peel and spread flour around
     1. Transfer rested, stretched dough to peel
     1. Shake peel to ensure dough isn’t stuck
