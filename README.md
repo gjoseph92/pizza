@@ -15,18 +15,20 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe.
 | Yeast (optional)                    | 0.1       |
 
 1. Mix water and salt.
-1. Mix in starter[^1].
-1. Unless you know your starter is vigorous and active, sprinkle in some commercial yeast too and mix[^2].
-1. Add 75% of the flour[^3], mix to combine, autolyse—aka rest 20min.
+1. Mix in starter<sup id="a1">[1](#f1)</sup>.
+1. Unless you know your starter is vigorous and active, sprinkle in some commercial yeast too and mix<sup id="a2">[2](#f2)</sup>.
+1. Add 75% of the flour<sup id="a3">[3](#f3)</sup>, mix to combine, autolyse—aka rest 20min.
 1. Mix ~5min by hand or in mixer. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
 1. Add rest of flour, bit at a time, and mixing. Don't care about getting to the target number. Stop adding once dough, lightly dusted with flour, feels soft and smooth. Should still be wet, soft, and slack.
 1. Rest a few minutes.
 1. Transfer to large container, or individual-size (250g) portions in smaller containers, or some combo thereof. Lightly oil the containers first.
 1. Store in fridge for 1-4 days
 
-[^1] The condition of the starter doesn't seem to matter much. I don't care if it's fed and bubbly, or just out of the fridge after a month without feeding. The latter is probably better tbh. Also: if you mix unfed starter into your dough, isn't that basically a feed?
-[^2] I just use sourdough for flavor and dough conditioning, not rise. If it's inactive, it's also then easier to predict how much rise you'll get from it (nearly none). So I add commercial yeast to get rise. Try to use less than you'd think—too much puff gives a dough that feels too bready and overwhelms the toppings.
-[^3] I usually just use all-purpose flour and it's delicious. Bread flour or 00 could be better, idk—you might also want to decrease hydration by ~5% for those.
+<a id="f1" href="#a1">1</a> The condition of the starter doesn't seem to matter much. I don't care if it's fed and bubbly, or just out of the fridge after a month without feeding. The latter is probably better tbh. Also: if you mix unfed starter into your dough, isn't that basically a feed?
+
+<a id="f2" href="#a2">2</a> I just use sourdough for flavor and dough conditioning, not rise. If it's inactive, it's also then easier to predict how much rise you'll get from it (nearly none). So I add commercial yeast to get rise. Try to use less than you'd think—too much puff gives a dough that feels too bready and overwhelms the toppings.
+
+<a id="f3" href="#a3">3</a> I usually just use all-purpose flour and it's delicious. Bread flour or 00 could be better, idk—you might also want to decrease hydration by ~5% for those.
 
 ## Yeasted dough
 
