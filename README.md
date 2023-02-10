@@ -6,21 +6,27 @@
 
 Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. [Numbers worksheet](/dough-worksheet.numbers).
 
-| Ingredient (grams)                  | 1 Pie | 3 Pies | 5 Pies | 8 Pies | Baker's % | Grams Per L Water |
-|-------------------------------------|-------|--------|--------|--------|-----------|-------------------|
-| Flour                               | 168   | 510    | 850    | 1344   | 100       | 1,451             |
-| Filtered Water                      | 116   | 352    | 586    | 928    | 69        | 1,000             |
-| Sourdough starter at ~50% hydration | 12    | 36     | 60     | 96     | 7         | 102               |
-| Kosher or Sea Salt                  | 4     | 12     | 17     | 32     | 2.3       | 29                |
+| Ingredient (grams)                  | Baker's % |
+|-------------------------------------|-----------|
+| Flour                               | 100       |
+| Water                               | 70        |
+| Sourdough starter at ~50% hydration | 7         |
+| Kosher or Sea Salt                  | 2.3       |
+| Yeast (optional)                    | 0.1       |
 
-1. Autolyse: fully mix ingredients with 75% of the flour, rest 20min
-1. Hand mix ~5min. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
+1. Mix water and salt.
+1. Mix in starter[^1].
+1. Unless you know your starter is vigorous and active, sprinkle in some commercial yeast too and mix[^2].
+1. Add 75% of the flour[^3], mix to combine, autolyse—aka rest 20min.
+1. Mix ~5min by hand or in mixer. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
 1. Add rest of flour, bit at a time, and mixing. Don't care about getting to the target number. Stop adding once dough, lightly dusted with flour, feels soft and smooth. Should still be wet, soft, and slack.
-1. Rest 15-20min
-1. Pour out onto floured surface and portion into ~220g pieces (or 440g if you have a lot of dough—split them in half at bake time)
-1. Store individually in extremely-lightly-oiled containers
-1. Rest 10min
-1. Put in fridge for 1-4 days
+1. Rest a few minutes.
+1. Transfer to large container, or individual-size (250g) portions in smaller containers, or some combo thereof. Lightly oil the containers first.
+1. Store in fridge for 1-4 days
+
+[^1] The condition of the starter doesn't seem to matter much. I don't care if it's fed and bubbly, or just out of the fridge after a month without feeding. The latter is probably better tbh. Also: if you mix unfed starter into your dough, isn't that basically a feed?
+[^2] I just use sourdough for flavor and dough conditioning, not rise. If it's inactive, it's also then easier to predict how much rise you'll get from it (nearly none). So I add commercial yeast to get rise. Try to use less than you'd think—too much puff gives a dough that feels too bready and overwhelms the toppings.
+[^3] I usually just use all-purpose flour and it's delicious. Bread flour or 00 could be better, idk—you might also want to decrease hydration by ~5% for those.
 
 ## Yeasted dough
 
@@ -29,7 +35,7 @@ A simple dough, cold-proved dough made with commercial yeast. This is honestly j
 | Ingredient | Percentage |
 |------------|------------|
 | Flour      | 100%       |
-| Water      | 60%        |
+| Water      | 65%        |
 | Salt       | 3%         |
 | Yeast      | 0.3%       |
 
@@ -41,16 +47,19 @@ A simple dough, cold-proved dough made with commercial yeast. This is honestly j
 
 Tip: if making multiple batches, interleave them. This builds in autolyse/resting time while you work on the other.
 
-Prior to baking, portion into ~220g pieces.
+Prior to baking, portion into ~250g pieces.
 
 ## Sauce
 
 Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organico Bello (see [image](/images/2022-09-01/tomato-kom.jpeg)).
 
-1. Put a strainer in the sink.
-1. Remove tomatoes from can individually. Shake off liquid, open them a little and let internal liquid drain off. Drop into strainer.
-1. Shake strainer, squeeze to drain as much liquid as possible (fine to break them up), then transfer to bowl.
-1. Add a few pinches of salt, glug of olive oil, and lightly mash by hand with pastry blender. Enough that it could reasonably be spread on a pizza, but a bit chunky.
+1. Put a strainer in the sink. Put a bowl under it to catch the juice.
+1. Dump can into strainer, shake to drain.
+1. Break open each tomato to let the internal liquid out. You can squeeze each one in your hand a bit too.
+1. Shake strainer, squish to drain as much liquid as possible (fine to break them up). Maybe even let it sit. Then transfer to food processor.
+1. Add some thinly-sliced cloves of garlic, a healthy amount of salt, some pepper, dried basil, and glug of olive oil. Process until smooth enough to spread evenly, but ideally not a total puree to retain a little texture.
+
+1 can seems to make 250ml of sauce. Still need to measure how much sauce typically goes on a pizza.
 
 ## Bake day
 
@@ -59,7 +68,6 @@ Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organi
 1. Remove everything from fridge ~3h? before baking
 1. Slice mozzarella and leave out to dry for a couple hours
 1. Put dough in a warm place to prove if it doesn't seem bubbly already (probably won't). Don't let it over-prove: want bubbles to just be starting to grow, so heat & steam will expand them while baking.
-1. Thinly slice garlic and cover in olive oil
 1. Get all ingredients ready and laid out
 1. Lightly, evenly flour bench
 
@@ -75,7 +83,6 @@ Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organi
     1. Spread about 2/3 the sauce you think you need. Less in the center, 1-3cm from edge
     1. Shake peel again
     1. Lay wetted fresh basil (unwashed) on top
-    1. Add thinly sliced, oiled garlic
     1. Grate tiny bit of parmesan on top
     1. Shake peel again
     1. Place 8-10 small pieces of cheese
