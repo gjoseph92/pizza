@@ -4,25 +4,24 @@
 
 ## Sourdough
 
-Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. [Numbers worksheet](/dough-worksheet.numbers).
+Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe. While cooking, follow along using this [worksheet](/dough-worksheet.numbers).
 
 | Ingredient (grams)                  | Baker's % |
 |-------------------------------------|-----------|
 | Flour                               | 100       |
 | Water                               | 70        |
 | Sourdough starter at ~50% hydration | 7         |
-| Kosher or Sea Salt                  | 2.3       |
+| Kosher or Sea Salt                  | 2.5       |
 | Yeast (optional)                    | 0.1       |
 
-1. Mix water and salt.
-1. Mix in starter<sup id="a1">[1](#f1)</sup>.
+1. Mix water, salt, and starter<sup id="a1">[1](#f1)</sup>.
 1. Unless you know your starter is vigorous and active, sprinkle in some commercial yeast too and mix<sup id="a2">[2](#f2)</sup>.
 1. Add 75% of the flour<sup id="a3">[3](#f3)</sup>, mix to combine, autolyse—aka rest 20min.
-1. Mix ~5min by hand or in mixer. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
+1. Mix ~10min by hand or in mixer. Dough will be very wet. This is where most of the gluten is working, even it seems like nothing's happening.
 1. Add rest of flour, bit at a time, and mixing. Don't care about getting to the target number. Stop adding once dough, lightly dusted with flour, feels soft and smooth. Should still be wet, soft, and slack.
 1. Rest a few minutes.
-1. Transfer to large container, or individual-size (250g) portions in smaller containers, or some combo thereof. Lightly oil the containers first.
-1. Store in fridge for 1-4 days
+1. Transfer to large container, or individual-size (275g) portions in smaller containers, or some combo thereof. Lightly oil the containers first.
+1. Store in fridge for 2-5 days
 
 <a id="f1" href="#a1">1</a> The condition of the starter doesn't seem to matter much. I don't care if it's fed and bubbly, or just out of the fridge after a month without feeding. The latter is probably better tbh. Also: if you mix unfed starter into your dough, isn't that basically a feed?
 
@@ -32,7 +31,7 @@ Adapted from [Jeff Varasano's](http://www.varasanos.com/PizzaRecipe.htm) recipe.
 
 ## Yeasted dough
 
-A simple dough, cold-proved dough made with commercial yeast. This is honestly just as tasty as the sourdough when it's had a few days to sit in the fridge—time is key. Adapted from [Ooni](https://ooni.com/blogs/recipes/cold-prove-pizza-dough) [recipes](https://ooni.com/blogs/recipes/avpn-standard-pizza-marinara). [Numbers worksheet](/dough-worksheet-yeasted.numbers).
+A simple dough, cold-proved dough made with commercial yeast. This is honestly just as tasty as the sourdough when it's had a few days to sit in the fridge—time is key. Adapted from [Ooni](https://ooni.com/blogs/recipes/cold-prove-pizza-dough) [recipes](https://ooni.com/blogs/recipes/avpn-standard-pizza-marinara). While cooking, follow along using this [worksheet](/dough-worksheet-yeasted.numbers).
 
 | Ingredient | Percentage |
 |------------|------------|
@@ -49,7 +48,7 @@ A simple dough, cold-proved dough made with commercial yeast. This is honestly j
 
 Tip: if making multiple batches, interleave them. This builds in autolyse/resting time while you work on the other.
 
-Prior to baking, portion into ~250g pieces.
+Prior to baking, portion into ~275g pieces.
 
 ## Sauce
 
