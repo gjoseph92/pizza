@@ -52,15 +52,16 @@ Prior to baking, portion into ~275g pieces.
 
 ## Sauce
 
-Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli and Organico Bello (see [image](/images/2022-09-01/tomato-kom.jpeg)).
+Key is high-quality canned San Marzano tomatoes, like Bianco DiNapoli, Organico Bello (see [image](/images/2022-09-01/tomato-kom.jpeg)), or—the best yet, surprisingly—Costco San Marzano tomatoes ([reference](/images/these-friggin-slap-bub.jpeg)), which seem to only be available seasonally in the summer.
 
-1. Put a strainer in the sink. Put a bowl under it to catch the juice.
-1. Dump can into strainer, shake to drain.
-1. Break open each tomato to let the internal liquid out. You can squeeze each one in your hand a bit too.
-1. Shake strainer, squish to drain as much liquid as possible (fine to break them up). Maybe even let it sit. Then transfer to food processor.
+1. Put a strainer in the sink. Recommended: put a bowl under it to catch the juice, so you can save it. Suggest: bowl with a spout, for pouring the juice later.
+1. Dump can into strainer, shake and toss a lot to drain until there's as little liquid as possible (fine to break them up).
+1. Squish to drain even more liquid (optional?). Maybe even let it sit. Then transfer to food processor.
 1. Add some thinly-sliced cloves of garlic, a healthy amount of salt, some pepper, dried basil, and glug of olive oil. Process until smooth enough to spread evenly, but ideally not a total puree to retain a little texture.
 
-1 can seems to make 250ml of sauce. Still need to measure how much sauce typically goes on a pizza.
+1 can seems to make 215ml of sauce. Still need to measure how much sauce typically goes on a pizza. I'd guess 2-3 tbsp (30-45ml) on a small 12" pizza. Maybe 4-5 pizzas per can?
+
+Pour the leftover tomato juice into plastic bags or ice cube trays and freeze them for later use in shakshouka? Or use it to make quite tasty pasta sauce: cook a bunch of onions + smashed garlic cloves in lots of olive oil until slightly brown, then add juice, oregano, basil and cook on low for a couple hours, stirring occasionally; salt + pepper at the end.
 
 ## Bake day
 
